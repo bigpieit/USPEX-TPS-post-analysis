@@ -20,3 +20,7 @@ CN = 11 red
 CN = 12 blue
 CN = 13 green
 CN = 14 yellow
+
+PS. Please use 
+"chmod +x crn.py"
+before calculation to make this file executable.
