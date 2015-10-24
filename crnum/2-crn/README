@@ -1,0 +1,22 @@
+The percentage of atoms with different CN are calculated and ploted during the phase transition
+
+crnum_all.crn is required for this folder before performing calculation.
+
+******************
+1. Execute the start.sh 
+   'crn.png' will be plotted to describe the change in the percentage of atoms with different coordinates.
+   'crn.txt' will be save to report for average percentage for atoms with  different coordinates in the region, where 12-coordinated atoms has the lowest percentage.
+ 
+******************
+The movie can be made by using VMD. Atoms with different CN are in different colors.
+1. Execute VMD. In your VMD, execute the
+   play make-x.tcl : produce movie viewed along x axis
+   play make-y.tcl : produce movie viewed along y axis
+   play make-z.tcl : produce movie viewed along z axis
+By default, atoms with different CN are in the following colors:
+CN = 9 white
+CN = 10 purple
+CN = 11 red
+CN = 12 blue
+CN = 13 green
+CN = 14 yellow
