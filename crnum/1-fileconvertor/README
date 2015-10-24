@@ -1,0 +1,6 @@
+1. copy crnum_-1.crn
+	crnum_1.crn 
+   at this folder
+2. in 1-nega, execute reverse.sh
+   in 2-posi, execute add.sh
+3. in 3-merge, execute merge.sh
