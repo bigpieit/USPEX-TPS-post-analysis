@@ -6,3 +6,8 @@ This calculate the msd from the double end of the trajectory.
 
 3. Execute start_msd.sh
    The plot will be saved as "double-end.png"
+
+PS. Please use 
+"chmod +x split-2.py" 
+"chmod +x msdBA.py" 
+before calculation to make this file executable.
