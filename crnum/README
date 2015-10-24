@@ -1,0 +1,13 @@
+The function of each calculation folder are described as follows:
+1. 1-fileconvertor: Converting the file format for followin calculation.
+   crnum_all.crn will be generated after finishing calculation in this folder.
+   And crnum_all.crn will used for calculation in step 2 and step 4
+
+2. 2-crn calculate the percentage of atoms with different CN. Movie for phase transiton is also made here. Atoms with different CN are in different colors in the movie.
+
+3. 3-msd-mid calculate the mean square distance from the middle point on trajectory.
+
+4. 4-msd-A-B calculate the mean square distance form the double end of the trajectory.
+
+
+PS. Please make all the .py files executable befor running the calculation.
