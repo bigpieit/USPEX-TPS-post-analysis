@@ -1,0 +1,8 @@
+This calculate the msd from the double end of the trajectory.
+
+1. crnum_all.crn should be copied first.
+
+2. Execute the start-split.sh
+
+3. Execute start_msd.sh
+   The plot will be saved as "double-end.png"
