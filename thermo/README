@@ -1,0 +1,7 @@
+In this folder, the thermodynamic and structure similarities information from TPS can be processed with ht.py and s-s.py.
+The procedure is as follows: 
+1.Copy TPS_STRUC.mat from calculation folder.
+2.Execute ht.py to get the enthaply and temperature information during phase transition.
+  Plot will be saved as "Enthalpy.png" and "Temperature.png". 
+3.Execute s-s.py to get the structure similarity information during phase transition.
+  Plot will be saved as "Structure-similarity.png". 
