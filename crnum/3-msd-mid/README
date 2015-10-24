@@ -1,0 +1,4 @@
+The mean square distance is calculated from the middle point on trajectory.
+1. Copy  msd_1.msd msd_-1.msd from calculation folder.
+2. Execute msd-plot.py
+   The plot will be saved as "msd-mid.png".
