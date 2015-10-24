@@ -1,0 +1,12 @@
+This is the folder used to calculate the CN, msd, enthalpy and structure similarity information during phase transition.
+
+1. crnum folder has the following functions:
+   a. calcualte and plot the percentage of atoms with different CN.
+   b. make movie for phase transition, in which atom with different CN is in different colors.
+   c. calculate msd from the middle of the trajectory or from the double-ends of the trajectory.
+
+2. thermo foler has the following functions:
+   a. plot the enthalpy and temperature information during phase transition.
+   b. plot the structure similarity during phase transition and characterize the transition region.
+
+README is attached in each folder and its sub-folders to instruct how to perform calculation.
